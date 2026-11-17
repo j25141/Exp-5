@@ -1,0 +1,9 @@
+body{font-family:Arial,sans-serif;background:linear-gradient(135deg,#38bdf8,#6366f1);min-height:100vh;display:flex;justify-content:center;align-items:flex-start;padding-top:60px;margin:0}
+.app{background:#fff;width:340px;padding:25px;border-radius:14px;text-align:center;box-shadow:0 6px 18px rgba(0,0,0,.25)}
+.search{display:flex;gap:6px}
+#cityInput{flex:1;padding:10px;border:1px solid #bbb;border-radius:6px}
+button{padding:10px 14px;border:none;border-radius:6px;background:#4f46e5;color:#fff;cursor:pointer}
+.temp{font-size:3rem;margin:10px 0}
+.details{display:flex;justify-content:space-around;color:#555}
+.hidden{display:none}
+#message{color:#dc2626}
